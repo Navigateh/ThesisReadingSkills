@@ -1,0 +1,7 @@
+interface:
+  display_name: "Math Formula Reading"
+  short_description: "Explain formulas, derivations, and notation"
+  default_prompt: "Use $math-formula-reading to explain the paper's formulas and build a symbol table."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,18 @@
+{
+  "paper_id": "",
+  "source": {
+    "type": "pdf",
+    "path": "",
+    "text": "",
+    "metadata": {}
+  },
+  "reading_goal": "",
+  "constraints": {
+    "language": "auto",
+    "depth": "standard",
+    "output_format": "both",
+    "ocr": "auto",
+    "extract_images": false
+  },
+  "state": {}
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Related Work Mapping"
+  short_description: "Map novelty, citations, and prior work"
+  default_prompt: "Use $related-work-mapping to position this paper against related work and citations."
+
+policy:
+  allow_implicit_invocation: true

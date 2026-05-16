@@ -1,0 +1,7 @@
+interface:
+  display_name: "Paper Decomposition"
+  short_description: "Map sections, claims, and method flow"
+  default_prompt: "Use $paper-decomposition to extract the paper structure, claims, and method outline."
+
+policy:
+  allow_implicit_invocation: true

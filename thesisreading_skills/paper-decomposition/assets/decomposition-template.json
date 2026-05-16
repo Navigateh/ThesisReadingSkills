@@ -1,0 +1,31 @@
+{
+  "skill": "paper-decomposition",
+  "paper_id": "",
+  "status": "partial",
+  "confidence": "medium",
+  "artifacts": [
+    {
+      "type": "json",
+      "path": "decomposition.json",
+      "description": "section and claim graph"
+    }
+  ],
+  "findings": [],
+  "handoff": {
+    "recommended_next_skills": [
+      "math-formula-reading",
+      "figure-table-reading",
+      "experiment-analysis",
+      "synthesis-and-notes"
+    ],
+    "state_patch": {
+      "decomposition": {
+        "sections": [],
+        "claims": [],
+        "method_steps": [],
+        "open_questions": []
+      }
+    }
+  },
+  "warnings": []
+}

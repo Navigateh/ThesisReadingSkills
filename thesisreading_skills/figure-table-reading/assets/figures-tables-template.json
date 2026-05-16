@@ -1,0 +1,29 @@
+{
+  "skill": "figure-table-reading",
+  "paper_id": "",
+  "status": "partial",
+  "confidence": "medium",
+  "artifacts": [
+    {
+      "type": "json",
+      "path": "figures-tables.json",
+      "description": "figure/table inventory and interpretations"
+    }
+  ],
+  "findings": [],
+  "handoff": {
+    "recommended_next_skills": [
+      "experiment-analysis",
+      "synthesis-and-notes"
+    ],
+    "state_patch": {
+      "visuals": {
+        "figures": [],
+        "tables": [],
+        "numeric_results": [],
+        "visual_uncertainties": []
+      }
+    }
+  },
+  "warnings": []
+}

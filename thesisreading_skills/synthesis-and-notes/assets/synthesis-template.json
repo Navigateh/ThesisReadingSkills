@@ -1,0 +1,31 @@
+{
+  "skill": "synthesis-and-notes",
+  "paper_id": "",
+  "status": "partial",
+  "confidence": "medium",
+  "artifacts": [
+    {
+      "type": "markdown",
+      "path": "paper-note.md",
+      "description": "final reading note"
+    },
+    {
+      "type": "json",
+      "path": "paper-note.json",
+      "description": "structured synthesis"
+    }
+  ],
+  "findings": [],
+  "handoff": {
+    "recommended_next_skills": [],
+    "state_patch": {
+      "synthesis": {
+        "summary": "",
+        "critical_takeaways": [],
+        "open_questions": [],
+        "review_cards": []
+      }
+    }
+  },
+  "warnings": []
+}

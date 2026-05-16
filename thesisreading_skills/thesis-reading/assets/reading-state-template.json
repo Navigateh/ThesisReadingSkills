@@ -1,0 +1,64 @@
+{
+  "paper_id": "",
+  "metadata": {
+    "title": "",
+    "authors": [],
+    "venue": "",
+    "year": null,
+    "doi": "",
+    "url": ""
+  },
+  "reading_goal": "",
+  "constraints": {
+    "language": "auto",
+    "depth": "standard",
+    "output_format": "both"
+  },
+  "ingestion": {
+    "source_path": "",
+    "pages": [],
+    "sections_hint": [],
+    "figures_hint": [],
+    "tables_hint": [],
+    "formulas_hint": [],
+    "quality": {}
+  },
+  "decomposition": {
+    "sections": [],
+    "claims": [],
+    "method_steps": [],
+    "open_questions": []
+  },
+  "math": {
+    "symbols": [],
+    "formulas": [],
+    "derivations": [],
+    "ambiguities": []
+  },
+  "visuals": {
+    "figures": [],
+    "tables": [],
+    "numeric_results": [],
+    "visual_uncertainties": []
+  },
+  "experiments": {
+    "datasets": [],
+    "metrics": [],
+    "baselines": [],
+    "ablations": [],
+    "validity_threats": [],
+    "reproduction_notes": []
+  },
+  "related_work": {
+    "clusters": [],
+    "key_citations": [],
+    "claimed_novelty": [],
+    "missing_or_uncertain_links": []
+  },
+  "synthesis": {
+    "summary": "",
+    "critical_takeaways": [],
+    "open_questions": [],
+    "review_cards": []
+  }
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Experiment Analysis"
+  short_description: "Evaluate experiments and evidence strength"
+  default_prompt: "Use $experiment-analysis to assess the paper's experiments, metrics, baselines, and reproducibility."
+
+policy:
+  allow_implicit_invocation: true

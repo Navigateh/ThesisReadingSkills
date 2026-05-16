@@ -1,0 +1,7 @@
+interface:
+  display_name: "Figure Table Reading"
+  short_description: "Interpret paper figures and tables"
+  default_prompt: "Use $figure-table-reading to interpret the paper's figures, tables, and visual evidence."
+
+policy:
+  allow_implicit_invocation: true

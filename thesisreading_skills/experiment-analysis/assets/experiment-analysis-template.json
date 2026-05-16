@@ -1,0 +1,31 @@
+{
+  "skill": "experiment-analysis",
+  "paper_id": "",
+  "status": "partial",
+  "confidence": "medium",
+  "artifacts": [
+    {
+      "type": "json",
+      "path": "experiment-analysis.json",
+      "description": "datasets, metrics, baselines, ablations, and validity notes"
+    }
+  ],
+  "findings": [],
+  "handoff": {
+    "recommended_next_skills": [
+      "related-work-mapping",
+      "synthesis-and-notes"
+    ],
+    "state_patch": {
+      "experiments": {
+        "datasets": [],
+        "metrics": [],
+        "baselines": [],
+        "ablations": [],
+        "validity_threats": [],
+        "reproduction_notes": []
+      }
+    }
+  },
+  "warnings": []
+}

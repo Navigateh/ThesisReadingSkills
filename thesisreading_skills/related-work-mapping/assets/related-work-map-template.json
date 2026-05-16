@@ -1,0 +1,28 @@
+{
+  "skill": "related-work-mapping",
+  "paper_id": "",
+  "status": "partial",
+  "confidence": "medium",
+  "artifacts": [
+    {
+      "type": "json",
+      "path": "related-work-map.json",
+      "description": "citation clusters and novelty positioning"
+    }
+  ],
+  "findings": [],
+  "handoff": {
+    "recommended_next_skills": [
+      "synthesis-and-notes"
+    ],
+    "state_patch": {
+      "related_work": {
+        "clusters": [],
+        "key_citations": [],
+        "claimed_novelty": [],
+        "missing_or_uncertain_links": []
+      }
+    }
+  },
+  "warnings": []
+}

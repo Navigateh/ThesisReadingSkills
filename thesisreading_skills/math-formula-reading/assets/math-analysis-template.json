@@ -1,0 +1,29 @@
+{
+  "skill": "math-formula-reading",
+  "paper_id": "",
+  "status": "partial",
+  "confidence": "medium",
+  "artifacts": [
+    {
+      "type": "json",
+      "path": "math-analysis.json",
+      "description": "formula map and symbol table"
+    }
+  ],
+  "findings": [],
+  "handoff": {
+    "recommended_next_skills": [
+      "experiment-analysis",
+      "synthesis-and-notes"
+    ],
+    "state_patch": {
+      "math": {
+        "symbols": [],
+        "formulas": [],
+        "derivations": [],
+        "ambiguities": []
+      }
+    }
+  },
+  "warnings": []
+}

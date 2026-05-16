@@ -1,0 +1,7 @@
+interface:
+  display_name: "Paper Ingestion"
+  short_description: "Parse PDFs into page-anchored paper text"
+  default_prompt: "Use $paper-ingestion to parse this PDF into JSON and Markdown artifacts."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Synthesis And Notes"
+  short_description: "Merge reading outputs into final notes"
+  default_prompt: "Use $synthesis-and-notes to synthesize the paper analysis into study notes and critique."
+
+policy:
+  allow_implicit_invocation: true

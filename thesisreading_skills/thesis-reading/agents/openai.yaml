@@ -1,0 +1,7 @@
+interface:
+  display_name: "Thesis Reading"
+  short_description: "Dispatch academic paper reading workflows"
+  default_prompt: "Use $thesis-reading to analyze this paper and produce structured reading notes."
+
+policy:
+  allow_implicit_invocation: true
